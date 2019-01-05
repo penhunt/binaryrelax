@@ -1,6 +1,7 @@
 # BinaryRelax
 This repository implements the benchmarks in PyTorch in the paper "BinaryRelax: A Relaxation Approach For Training Deep Neural Networks With Quantized Weights".
 
+## Reference
 ```
 @article{yin2018binaryrelax,
   title={Binaryrelax: A relaxation approach for training deep neural networks with quantized weights},
